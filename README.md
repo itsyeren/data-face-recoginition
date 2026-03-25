@@ -1,7 +1,7 @@
-## PCA ile Yüz Tanıma
+## Face Recognition with PCA
 
-Sınıflandırma algoritmalarını uygulamadan önce siyah-beyaz görüntülerin boyutunu küçültmek için PCA kullanacağız:
-- PCA’ya alışmak için `warmup_pca.ipynb` ile başlayın
-- Ardından ana çalışma için `face_recognition.ipynb` dosyasına geçin!
+Before applying the classification algorithms, we will use PCA to reduce the size of black and white images:
+- To get used to PCA, start with `warmup_pca.ipynb`
+- Then switch to the `face_recognition.ipynb` file for the main work!
 
 <img src="https://scikit-learn.org/stable/_images/sphx_glr_plot_face_recognition_001.png" width=500>
